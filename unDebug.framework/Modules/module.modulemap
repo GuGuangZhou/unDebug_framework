@@ -1,0 +1,6 @@
+framework module unDebug {
+  umbrella header "unDebug.h"
+
+  export *
+  module * { export * }
+}
